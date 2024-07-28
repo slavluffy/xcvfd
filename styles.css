@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+ }
+
+ body {
+    margin: 0;
+    }
+
+    header {
+        background-color: rgba(17, 17, 231, 0.705);
+        text-align: center;
+        padding: 16px;
+        }
+
+        nav {
+            background-color: aqua;
+            height: 26px;
+}
+
+.container-1 {
+    display: flex;
+    }
